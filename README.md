@@ -8,8 +8,8 @@ Nexa x MMU CTF is the CTF is the CTF colaborate between Nexagate and MMU, this C
 My team in this CTF is packet monkey, happy be with them to join this CTF. Few challenge write up from part2 also done by my teammate.
 
 ### Team Member in Packet Monkey
-YeeHau
-yialexlee (w9u0l1.l2lvi)
-CheahPengLun
-LIM YONG BIN
-Patrick Then
+* YeeHau
+* yialexlee (w9u0l1.l2lvi)
+* CheahPengLun
+* LIM YONG BIN
+* Patrick Then
