@@ -1,5 +1,5 @@
 # Nexa x MMU CTF
-![cover](hhttps://github.com/yialexlee/Nexa-x-MMU-CTF-Writeup/blob/main/nexammuctf.png)
+![cover](https://github.com/yialexlee/Nexa-x-MMU-CTF-Writeup/blob/main/nexammuctf.png)
 
 Nexa x MMU CTF is the CTF is the CTF colaborate between Nexagate and MMU, this CTF is for beginner and held as our Lab test of Ethical Hacking subject. It is fun especially the web challenge Clueless Wargames! . Thanks a lot to all Nexagate staff who involve to held this CTF . Hope MMU can continue this kind of exam method instead of boring paper test.
 
